@@ -1,7 +1,7 @@
 ### Oi meu chapa, sou o Luan 👋
 
 - 🏡 Resido na cidade de Caruaru - PE
-- 🔭 Atualmente trabalho como Eletricista de caminhões e onibus da VolksWagen na concecionaria de veiculos Mandacaru Motor Ltda
+- 🔭 Atualmente trabalho como Eletricista de caminhões e onibus da VolksWagen na concecionaria de veiculos Mandacaru Motor Ltda e atuo com dev jr na VibeCem.
 - 🌱 Estou começando na area de programação
 - 📫 Contate-me no email :luansantos26@outlook.com
 - 🌠 Estou sempre buscando aprender
