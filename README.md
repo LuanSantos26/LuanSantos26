@@ -64,3 +64,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolviment
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=LuanSantos26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuanSantos26&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </p>
+
+---
+
+### 🏆 Conquistas no GitHub
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuanSantos26&theme=tokyonight&no-frame=true&column=4" alt="Troféus do GitHub" />
+</p>
