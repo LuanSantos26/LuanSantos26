@@ -13,18 +13,15 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolviment
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/luan-f-santos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:luansantos26@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/luanzin.dev_26/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+ 
 </p>
 
 ---
