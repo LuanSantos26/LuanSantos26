@@ -69,8 +69,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolviment
 
 ### 🏆 Conquistas & Certificações
 
+### 🏆 Conquistas & Certificações
+
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-Pull_Shark-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
   <img src="https://img.shields.io/badge/GitHub-Quickdraw-orange?style=for-the-badge&logo=github" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/DIO-Java_Foundations-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="DIO Java Foundations" />
+  <img src="https://img.shields.io/badge/FIAP-Java_Foundations-ED145B?style=for-the-badge&logo=openjdk&logoColor=white" alt="FIAP Java Foundations" />
 </p>
