@@ -67,7 +67,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolviment
 
 ---
 
-### 🏆 Conquistas & Certificações
 
 ### 🏆 Conquistas & Certificações
 
