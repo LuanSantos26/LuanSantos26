@@ -67,8 +67,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolviment
 
 ---
 
-### 🏆 Conquistas no GitHub
+### 🏆 Conquistas & Certificações
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuanSantos26&theme=tokyonight&no-frame=true&column=4" alt="Troféus do GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Pull_Shark-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/GitHub-Quickdraw-orange?style=for-the-badge&logo=github" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/DIO-Java_Foundations-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="DIO Java Foundations" />
 </p>
