@@ -58,9 +58,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolviment
 
 ---
 
-### 📊 Estatísticas do GitHub
+#### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanSantos26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSantos26&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=LuanSantos26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuanSantos26&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </p>
