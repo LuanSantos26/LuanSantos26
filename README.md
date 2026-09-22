@@ -1,6 +1,3 @@
-
-
-
 # Olá, sou o Luan Feitosa! 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolvimento de software (Backend e Frontend). Possuo experiência prévia como Desenvolvedor Júnior na VibeCem e atualmente atuo como eletricista de veículos comerciais (VW Caminhões e Ônibus) na Mandacaru Motor Ltda, aliando raciocínio lógico e diagnóstico técnico ao desenvolvimento de sistemas.
@@ -21,14 +18,14 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolviment
   </a>
   <a href="https://www.instagram.com/luanzin.dev_26/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
- 
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Tecnologias e Habilidades
 
-**Linguagens & Backen**
+**Linguagens & Backend:**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -58,20 +55,25 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolviment
 
 ---
 
-#### 📊 Estatísticas do GitHub
+### 🏆 Conquistas & Certificações
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=LuanSantos26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuanSantos26&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
+  <a href="https://github.com/LuanSantos26?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Pull_Shark-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
+  </a>
+  <a href="https://github.com/LuanSantos26?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Quickdraw-orange?style=for-the-badge&logo=github" alt="Quickdraw" />
+  </a>
+  <a href="LINK_DO_SEU_CERTIFICADO_FIAP" target="_blank">
+    <img src="https://img.shields.io/badge/FIAP-Java_Foundations-ED145B?style=for-the-badge&logo=openjdk&logoColor=white" alt="FIAP Java Foundations" />
+  </a>
 </p>
 
 ---
 
-
-### 🏆 Conquistas & Certificações
+### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-Pull_Shark-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/GitHub-Quickdraw-orange?style=for-the-badge&logo=github" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/FIAP-Java_Foundations-ED145B?style=for-the-badge&logo=openjdk&logoColor=white" alt="FIAP Java Foundations" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=LuanSantos26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuanSantos26&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </p>
